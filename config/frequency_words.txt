@@ -1,5 +1,4 @@
 DeepSeek
-梁文锋
 
 谷歌
 google
@@ -7,18 +6,20 @@ gemini
 
 chatgpt
 openai
+openclaw
 
 金价
 
 黄金
 +价格
 
-美债
+期货
++焦煤
 
 美股
 
-美元
-+指数
+期货
++商品指数
 
 特朗普
 
